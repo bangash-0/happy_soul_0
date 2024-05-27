@@ -20,11 +20,11 @@ void main() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
 
-  runApp(const ProviderScope(child: FlashChat()));
+  runApp(const ProviderScope(child: HappySoul()));
 }
 
-class FlashChat extends StatelessWidget {
-  const FlashChat({super.key});
+class HappySoul extends StatelessWidget {
+  const HappySoul({super.key});
 
   @override
   Widget build(BuildContext context) {
