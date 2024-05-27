@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073232410548",
+    "project_id": "happysoul-b4f2e",
+    "storage_bucket": "happysoul-b4f2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073232410548:android:ccdad03fd54d92f399e4e1",
+        "android_client_info": {
+          "package_name": "com.FYP.happy_soul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8kPy_yV3Ii61VUqgQylehGrc-2q7a-ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
